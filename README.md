@@ -12,7 +12,10 @@ This profile is where I share my work, experiments, and everything I’m learnin
 
 ### Tools & Tech
 
-- C, C++, Java, Python  
+- C, C++, Java, Python
+- html, css, JS
+- react, nextjs
+- Supabase
 - Linux (Kali, Ubuntu), Windows  
 - Git & GitHub  
 - VMware, VirtualBox  
