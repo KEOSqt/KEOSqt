@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**KEOSqt/KEOSqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Aziz, a software engineering student based in Tunisia.
 
-Here are some ideas to get you started:
+I’m passionate about cybersecurity and programming — especially ethical hacking, network security, and building useful tools from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on projects like penetration testing, encryption tools, and security analysis, while continuously improving my skills through CTFs and real-world challenges.
+
+This profile is where I share my work, experiments, and everything I’m learning along the way.
+
+---
+
+### Tools & Tech
+
+- C, C++, Java, Python  
+- Linux (Kali, Ubuntu), Windows  
+- Git & GitHub  
+- VMware, VirtualBox  
+
+- Cybersecurity:
+  - Nmap, Wireshark, Burp Suite, SQLmap  
+  - Gobuster, Nikto  
+  - Hydra, John the Ripper  
+
+---
+
+### A Bit About Me
+
+- 🔐 Into cybersecurity & ethical hacking  
+- 🧠 Active in CTF platforms (Hack The Box, TryHackMe, VulnHub)  
+- 🏆 Ranked in national hackathons & CTF competitions  
+- 🌍 Former U.S. Embassy Access Program participant  
+- ⚡ I like building secure, practical, and efficient tools  
