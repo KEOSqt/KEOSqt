@@ -4,7 +4,7 @@ I'm Aziz, a software engineering student based in Tunisia.
 
 I’m passionate about cybersecurity and programming — especially ethical hacking, network security, and building useful tools from scratch.
 
-I work on projects like penetration testing, encryption tools, and security analysis, while continuously improving my skills through CTFs and real-world challenges.
+I work on projects like penetration testing and encryption tools, while continuously improving my skills through CTFs and real-world challenges.
 
 This profile is where I share my work, experiments, and everything I’m learning along the way.
 
@@ -14,7 +14,7 @@ This profile is where I share my work, experiments, and everything I’m learnin
 
 - C, C++, Java, Python
 - html, css, JS
-- react, nextjs
+- nextjs
 - Supabase
 - Linux (Kali, Ubuntu), Windows  
 - Git & GitHub  
